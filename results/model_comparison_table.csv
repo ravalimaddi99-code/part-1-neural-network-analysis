@@ -1,0 +1,4 @@
+Experiment,Layers,Activation,Epochs,Batch_Size,Learning_Rate,Accuracy,Loss
+Exp1: More Layers,4,relu,20,32,0.001,0.9275,0.2127
+Exp2: High LR+Batch64,2,relu,20,64,0.01,0.955,0.2383
+Exp3: tanh+50epochs,2,tanh,50,32,0.001,0.9325,0.1997
